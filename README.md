@@ -1,6 +1,6 @@
 <html>
-<h1>Heading 1 </h1>
-<p> I am King.</p>
+<h1>Life Of Travis Boone 1 </h1>
+<p> I am King. I want to be great and get my degree in 2 years.</p>
 
   
 
